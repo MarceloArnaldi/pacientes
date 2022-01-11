@@ -3,16 +3,16 @@
 >Patients is a backend API in Node.js/JavaScript with methods for handling the patient entity<p><p>
 ><i>Pacientes é uma API back-end em Node.js/JavaScript com médotos para manipulação da entidade paciente</i>
 
-## Metodos
+## Methods / Metodos
 
-### Consulta de Pacientes
+### Patient Consultation / Consulta de Pacientes
 ```sh
-GET:<endereço-servidor:<porta>/pacientes
+GET:<server-address:<port>/pacientes
 ```
 
-## Exemplo de uso
+## Example of use / Exemplo de uso
 
-Para colocar o servidor no ar:
+To put the server online / Para colocar o servidor no ar:
 
 ```sh
 node index
@@ -22,20 +22,22 @@ npm start
 
 ## TDD
 
-Nos arquivos de teste mude o endereço e porta para a localização onde o servidor foi instalado. 
-Para executar os teste use:
+In the test files change the address and port to the location where the server was installed.<p><p>
+<i>Nos arquivos de teste mude o endereço e porta para a localização onde o servidor foi instalado. </i><p>
+
+To run the tests use / Para executar os teste use:
 
 ```sh
 sudo npm i -D jest
 npm test
 ```
 
-## Instancia Hospedada no GCP
+## Hosted Instance on GCP / Instancia Hospedada no GCP
 ```
 https://rede-impar.rj.r.appspot.com/pacientes
 ```
 
-## Informações
+## Information / Informações
 
 Marcelo Arnaldi – marcelo.arnaldi@gmail.com
 
