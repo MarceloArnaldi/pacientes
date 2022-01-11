@@ -1,7 +1,7 @@
-# Pacientes
+# Patients / Pacientes
 >
->Pacientes é uma API back-end em Node.js/JavaScript com médotos para manipulação da entidade paciente
-
+>Patients is a backend API in Node.js/JavaScript with methods for handling the patient entity<p><p>
+><i>Pacientes é uma API back-end em Node.js/JavaScript com médotos para manipulação da entidade paciente</i>
 
 ## Metodos
 
